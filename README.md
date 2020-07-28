@@ -1,1 +1,2 @@
-# C34-carracegame
+# synchronousBallMovement
+Ball moving synchronously
